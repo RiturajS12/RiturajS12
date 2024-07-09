@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java(Dsa) and Python(Flask and for ML)<br>👯 I’m looking to collaborate on web developments<br>🤝 I’m looking for help with front end development<br>🌱 I’m currently learning Java and it's framework<br>💬 Ask me about Flask and back end development
+🔭 I’m currently working on Java(Dsa) and Python(Flask and for ML)<br>👯 I’m looking to collaborate on web developments<br>🤝 I’m looking for help with front end development<br>🌱 I’m currently learning Java & Python and it's frameworks<br>💬 Ask me about Flask and back end development
 
 
 
