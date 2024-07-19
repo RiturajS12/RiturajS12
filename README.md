@@ -26,7 +26,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RiturajS12&theme=react-dark"/>
 ---
-[![](https://visitcount.itsvg.in/api?id=RiturajS12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RiturajS12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
